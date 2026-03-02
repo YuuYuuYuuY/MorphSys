@@ -1,0 +1,7 @@
+__pycache__/
+data/raw
+data/dendrite
+data/*.gz
+.ipynb_checkpoints/
+work_dir/
+runs/
